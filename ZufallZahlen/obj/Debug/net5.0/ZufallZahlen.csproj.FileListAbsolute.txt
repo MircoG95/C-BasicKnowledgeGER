@@ -1,0 +1,16 @@
+C:\Users\thafner\source\repos\21_1_KA_AE\ZufallZahlen\bin\Debug\net5.0\ZufallZahlen.exe
+C:\Users\thafner\source\repos\21_1_KA_AE\ZufallZahlen\bin\Debug\net5.0\ZufallZahlen.deps.json
+C:\Users\thafner\source\repos\21_1_KA_AE\ZufallZahlen\bin\Debug\net5.0\ZufallZahlen.runtimeconfig.json
+C:\Users\thafner\source\repos\21_1_KA_AE\ZufallZahlen\bin\Debug\net5.0\ZufallZahlen.runtimeconfig.dev.json
+C:\Users\thafner\source\repos\21_1_KA_AE\ZufallZahlen\bin\Debug\net5.0\ZufallZahlen.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\ZufallZahlen\bin\Debug\net5.0\ref\ZufallZahlen.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\ZufallZahlen\bin\Debug\net5.0\ZufallZahlen.pdb
+C:\Users\thafner\source\repos\21_1_KA_AE\ZufallZahlen\obj\Debug\net5.0\ZufallZahlen.csproj.AssemblyReference.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\ZufallZahlen\obj\Debug\net5.0\ZufallZahlen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thafner\source\repos\21_1_KA_AE\ZufallZahlen\obj\Debug\net5.0\ZufallZahlen.AssemblyInfoInputs.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\ZufallZahlen\obj\Debug\net5.0\ZufallZahlen.AssemblyInfo.cs
+C:\Users\thafner\source\repos\21_1_KA_AE\ZufallZahlen\obj\Debug\net5.0\ZufallZahlen.csproj.CoreCompileInputs.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\ZufallZahlen\obj\Debug\net5.0\ZufallZahlen.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\ZufallZahlen\obj\Debug\net5.0\ref\ZufallZahlen.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\ZufallZahlen\obj\Debug\net5.0\ZufallZahlen.pdb
+C:\Users\thafner\source\repos\21_1_KA_AE\ZufallZahlen\obj\Debug\net5.0\ZufallZahlen.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yHcOIhjhs0tcdckyEm8aM6UVO0e7vESzsh/S1U05nlPF9gBkPqY32S6nUWvJVzPNpx7XwnzjyLdLM8NqQsHMow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mircolino\\Desktop\\Projekte\\21_1_KA_AE\\ZufallZahlen\\ZufallZahlen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mircolino\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mircolino\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mircolino\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mircolino\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
