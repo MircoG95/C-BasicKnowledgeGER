@@ -1,0 +1,15 @@
+C:\Users\thafner\source\repos\21_1_KA_AE\Collection_Dictionary\bin\Debug\net5.0\Collection_Dictionary.exe
+C:\Users\thafner\source\repos\21_1_KA_AE\Collection_Dictionary\bin\Debug\net5.0\Collection_Dictionary.deps.json
+C:\Users\thafner\source\repos\21_1_KA_AE\Collection_Dictionary\bin\Debug\net5.0\Collection_Dictionary.runtimeconfig.json
+C:\Users\thafner\source\repos\21_1_KA_AE\Collection_Dictionary\bin\Debug\net5.0\Collection_Dictionary.runtimeconfig.dev.json
+C:\Users\thafner\source\repos\21_1_KA_AE\Collection_Dictionary\bin\Debug\net5.0\Collection_Dictionary.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Collection_Dictionary\bin\Debug\net5.0\ref\Collection_Dictionary.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Collection_Dictionary\bin\Debug\net5.0\Collection_Dictionary.pdb
+C:\Users\thafner\source\repos\21_1_KA_AE\Collection_Dictionary\obj\Debug\net5.0\Collection_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thafner\source\repos\21_1_KA_AE\Collection_Dictionary\obj\Debug\net5.0\Collection_Dictionary.AssemblyInfoInputs.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\Collection_Dictionary\obj\Debug\net5.0\Collection_Dictionary.AssemblyInfo.cs
+C:\Users\thafner\source\repos\21_1_KA_AE\Collection_Dictionary\obj\Debug\net5.0\Collection_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\Collection_Dictionary\obj\Debug\net5.0\Collection_Dictionary.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Collection_Dictionary\obj\Debug\net5.0\ref\Collection_Dictionary.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Collection_Dictionary\obj\Debug\net5.0\Collection_Dictionary.pdb
+C:\Users\thafner\source\repos\21_1_KA_AE\Collection_Dictionary\obj\Debug\net5.0\Collection_Dictionary.genruntimeconfig.cache
