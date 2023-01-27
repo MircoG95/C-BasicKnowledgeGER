@@ -1,0 +1,16 @@
+C:\Users\thafner\source\repos\21_1_KA_AE\DieListe\bin\Debug\net5.0\DieListe.exe
+C:\Users\thafner\source\repos\21_1_KA_AE\DieListe\bin\Debug\net5.0\DieListe.deps.json
+C:\Users\thafner\source\repos\21_1_KA_AE\DieListe\bin\Debug\net5.0\DieListe.runtimeconfig.json
+C:\Users\thafner\source\repos\21_1_KA_AE\DieListe\bin\Debug\net5.0\DieListe.runtimeconfig.dev.json
+C:\Users\thafner\source\repos\21_1_KA_AE\DieListe\bin\Debug\net5.0\DieListe.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\DieListe\bin\Debug\net5.0\ref\DieListe.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\DieListe\bin\Debug\net5.0\DieListe.pdb
+C:\Users\thafner\source\repos\21_1_KA_AE\DieListe\obj\Debug\net5.0\DieListe.csproj.AssemblyReference.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\DieListe\obj\Debug\net5.0\DieListe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thafner\source\repos\21_1_KA_AE\DieListe\obj\Debug\net5.0\DieListe.AssemblyInfoInputs.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\DieListe\obj\Debug\net5.0\DieListe.AssemblyInfo.cs
+C:\Users\thafner\source\repos\21_1_KA_AE\DieListe\obj\Debug\net5.0\DieListe.csproj.CoreCompileInputs.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\DieListe\obj\Debug\net5.0\DieListe.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\DieListe\obj\Debug\net5.0\ref\DieListe.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\DieListe\obj\Debug\net5.0\DieListe.pdb
+C:\Users\thafner\source\repos\21_1_KA_AE\DieListe\obj\Debug\net5.0\DieListe.genruntimeconfig.cache
