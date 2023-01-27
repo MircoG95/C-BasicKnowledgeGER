@@ -1,0 +1,16 @@
+C:\Users\thafner\source\repos\21_1_KA_AE\EinfacheVerschluesselung\bin\Debug\net5.0\EinfacheVerschluesselung.exe
+C:\Users\thafner\source\repos\21_1_KA_AE\EinfacheVerschluesselung\bin\Debug\net5.0\EinfacheVerschluesselung.deps.json
+C:\Users\thafner\source\repos\21_1_KA_AE\EinfacheVerschluesselung\bin\Debug\net5.0\EinfacheVerschluesselung.runtimeconfig.json
+C:\Users\thafner\source\repos\21_1_KA_AE\EinfacheVerschluesselung\bin\Debug\net5.0\EinfacheVerschluesselung.runtimeconfig.dev.json
+C:\Users\thafner\source\repos\21_1_KA_AE\EinfacheVerschluesselung\bin\Debug\net5.0\EinfacheVerschluesselung.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\EinfacheVerschluesselung\bin\Debug\net5.0\ref\EinfacheVerschluesselung.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\EinfacheVerschluesselung\bin\Debug\net5.0\EinfacheVerschluesselung.pdb
+C:\Users\thafner\source\repos\21_1_KA_AE\EinfacheVerschluesselung\obj\Debug\net5.0\EinfacheVerschluesselung.csproj.AssemblyReference.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\EinfacheVerschluesselung\obj\Debug\net5.0\EinfacheVerschluesselung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thafner\source\repos\21_1_KA_AE\EinfacheVerschluesselung\obj\Debug\net5.0\EinfacheVerschluesselung.AssemblyInfoInputs.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\EinfacheVerschluesselung\obj\Debug\net5.0\EinfacheVerschluesselung.AssemblyInfo.cs
+C:\Users\thafner\source\repos\21_1_KA_AE\EinfacheVerschluesselung\obj\Debug\net5.0\EinfacheVerschluesselung.csproj.CoreCompileInputs.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\EinfacheVerschluesselung\obj\Debug\net5.0\EinfacheVerschluesselung.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\EinfacheVerschluesselung\obj\Debug\net5.0\ref\EinfacheVerschluesselung.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\EinfacheVerschluesselung\obj\Debug\net5.0\EinfacheVerschluesselung.pdb
+C:\Users\thafner\source\repos\21_1_KA_AE\EinfacheVerschluesselung\obj\Debug\net5.0\EinfacheVerschluesselung.genruntimeconfig.cache
