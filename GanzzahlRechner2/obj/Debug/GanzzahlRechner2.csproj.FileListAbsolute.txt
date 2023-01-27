@@ -1,0 +1,10 @@
+C:\Users\michael.beck\source\repos\FIU21-1\SE-Grundlagen\GanzzahlRechner2\bin\Debug\GanzzahlRechner2.exe.config
+C:\Users\michael.beck\source\repos\FIU21-1\SE-Grundlagen\GanzzahlRechner2\bin\Debug\GanzzahlRechner2.exe
+C:\Users\michael.beck\source\repos\FIU21-1\SE-Grundlagen\GanzzahlRechner2\bin\Debug\GanzzahlRechner2.pdb
+C:\Users\michael.beck\source\repos\FIU21-1\SE-Grundlagen\GanzzahlRechner2\obj\Debug\GanzzahlRechner2.csproj.AssemblyReference.cache
+C:\Users\michael.beck\source\repos\FIU21-1\SE-Grundlagen\GanzzahlRechner2\obj\Debug\GanzzahlRechner2.Form1.resources
+C:\Users\michael.beck\source\repos\FIU21-1\SE-Grundlagen\GanzzahlRechner2\obj\Debug\GanzzahlRechner2.Properties.Resources.resources
+C:\Users\michael.beck\source\repos\FIU21-1\SE-Grundlagen\GanzzahlRechner2\obj\Debug\GanzzahlRechner2.csproj.GenerateResource.cache
+C:\Users\michael.beck\source\repos\FIU21-1\SE-Grundlagen\GanzzahlRechner2\obj\Debug\GanzzahlRechner2.csproj.CoreCompileInputs.cache
+C:\Users\michael.beck\source\repos\FIU21-1\SE-Grundlagen\GanzzahlRechner2\obj\Debug\GanzzahlRechner2.exe
+C:\Users\michael.beck\source\repos\FIU21-1\SE-Grundlagen\GanzzahlRechner2\obj\Debug\GanzzahlRechner2.pdb
