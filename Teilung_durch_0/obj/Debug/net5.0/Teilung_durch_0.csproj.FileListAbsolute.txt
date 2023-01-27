@@ -1,0 +1,16 @@
+C:\Users\thafner\source\repos\20_1_KA_AE\Teilung_durch_0\bin\Debug\net5.0\Teilung_durch_0.exe
+C:\Users\thafner\source\repos\20_1_KA_AE\Teilung_durch_0\bin\Debug\net5.0\Teilung_durch_0.deps.json
+C:\Users\thafner\source\repos\20_1_KA_AE\Teilung_durch_0\bin\Debug\net5.0\Teilung_durch_0.runtimeconfig.json
+C:\Users\thafner\source\repos\20_1_KA_AE\Teilung_durch_0\bin\Debug\net5.0\Teilung_durch_0.runtimeconfig.dev.json
+C:\Users\thafner\source\repos\20_1_KA_AE\Teilung_durch_0\bin\Debug\net5.0\Teilung_durch_0.dll
+C:\Users\thafner\source\repos\20_1_KA_AE\Teilung_durch_0\bin\Debug\net5.0\ref\Teilung_durch_0.dll
+C:\Users\thafner\source\repos\20_1_KA_AE\Teilung_durch_0\bin\Debug\net5.0\Teilung_durch_0.pdb
+C:\Users\thafner\source\repos\20_1_KA_AE\Teilung_durch_0\obj\Debug\net5.0\Teilung_durch_0.csproj.AssemblyReference.cache
+C:\Users\thafner\source\repos\20_1_KA_AE\Teilung_durch_0\obj\Debug\net5.0\Teilung_durch_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thafner\source\repos\20_1_KA_AE\Teilung_durch_0\obj\Debug\net5.0\Teilung_durch_0.AssemblyInfoInputs.cache
+C:\Users\thafner\source\repos\20_1_KA_AE\Teilung_durch_0\obj\Debug\net5.0\Teilung_durch_0.AssemblyInfo.cs
+C:\Users\thafner\source\repos\20_1_KA_AE\Teilung_durch_0\obj\Debug\net5.0\Teilung_durch_0.csproj.CoreCompileInputs.cache
+C:\Users\thafner\source\repos\20_1_KA_AE\Teilung_durch_0\obj\Debug\net5.0\Teilung_durch_0.dll
+C:\Users\thafner\source\repos\20_1_KA_AE\Teilung_durch_0\obj\Debug\net5.0\ref\Teilung_durch_0.dll
+C:\Users\thafner\source\repos\20_1_KA_AE\Teilung_durch_0\obj\Debug\net5.0\Teilung_durch_0.pdb
+C:\Users\thafner\source\repos\20_1_KA_AE\Teilung_durch_0\obj\Debug\net5.0\Teilung_durch_0.genruntimeconfig.cache
