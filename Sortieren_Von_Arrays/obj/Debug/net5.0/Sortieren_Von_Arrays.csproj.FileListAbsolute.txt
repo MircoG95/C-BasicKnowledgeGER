@@ -1,0 +1,16 @@
+C:\Users\thafner\source\repos\21_1_KA_AE\Sortieren_Von_Arrays\bin\Debug\net5.0\Sortieren_Von_Arrays.exe
+C:\Users\thafner\source\repos\21_1_KA_AE\Sortieren_Von_Arrays\bin\Debug\net5.0\Sortieren_Von_Arrays.deps.json
+C:\Users\thafner\source\repos\21_1_KA_AE\Sortieren_Von_Arrays\bin\Debug\net5.0\Sortieren_Von_Arrays.runtimeconfig.json
+C:\Users\thafner\source\repos\21_1_KA_AE\Sortieren_Von_Arrays\bin\Debug\net5.0\Sortieren_Von_Arrays.runtimeconfig.dev.json
+C:\Users\thafner\source\repos\21_1_KA_AE\Sortieren_Von_Arrays\bin\Debug\net5.0\Sortieren_Von_Arrays.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Sortieren_Von_Arrays\bin\Debug\net5.0\ref\Sortieren_Von_Arrays.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Sortieren_Von_Arrays\bin\Debug\net5.0\Sortieren_Von_Arrays.pdb
+C:\Users\thafner\source\repos\21_1_KA_AE\Sortieren_Von_Arrays\obj\Debug\net5.0\Sortieren_Von_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thafner\source\repos\21_1_KA_AE\Sortieren_Von_Arrays\obj\Debug\net5.0\Sortieren_Von_Arrays.AssemblyInfoInputs.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\Sortieren_Von_Arrays\obj\Debug\net5.0\Sortieren_Von_Arrays.AssemblyInfo.cs
+C:\Users\thafner\source\repos\21_1_KA_AE\Sortieren_Von_Arrays\obj\Debug\net5.0\Sortieren_Von_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\Sortieren_Von_Arrays\obj\Debug\net5.0\Sortieren_Von_Arrays.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Sortieren_Von_Arrays\obj\Debug\net5.0\ref\Sortieren_Von_Arrays.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Sortieren_Von_Arrays\obj\Debug\net5.0\Sortieren_Von_Arrays.pdb
+C:\Users\thafner\source\repos\21_1_KA_AE\Sortieren_Von_Arrays\obj\Debug\net5.0\Sortieren_Von_Arrays.genruntimeconfig.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\Sortieren_Von_Arrays\obj\Debug\net5.0\Sortieren_Von_Arrays.csproj.AssemblyReference.cache

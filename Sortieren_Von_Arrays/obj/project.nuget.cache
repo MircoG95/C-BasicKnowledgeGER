@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LHuaW02+4Jz2t/YrVC0Ma30d3011//g1jtdBdTAY1vy7WxrjpOwEpBkOymH/2y5cu9gPnZ4CjChhFQyGNFq+gQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mircolino\\Desktop\\Projekte\\21_1_KA_AE\\Sortieren_Von_Arrays\\Sortieren_Von_Arrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mircolino\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mircolino\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mircolino\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mircolino\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
